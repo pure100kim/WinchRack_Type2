@@ -3,7 +3,7 @@ WinchRack_Type2 for ERCF buffer
 
 
 
-v6cl (방탄쪼끼) is a nice member of the same country and Voron User kakao chat room. <br>
+v6cl (방탄쪼끼) is a nice member of the same country and VORON User kakao chat room. <br>
 He is adept at design and has helped shortcomings in the multi-color ERCF buffer, for which we are grateful. <br>
 Building upon his design, I have received wonderful ideas to modify the structure for improved spatial aspects and easier spool install.
 
