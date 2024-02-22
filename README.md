@@ -27,8 +27,11 @@ v6cl Test youtube video : https://www.youtube.com/shorts/trHfZH3sDRs
  	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_04.png" /><br>
 </div>
 <br>
-<div align="center">	
+
+
 # Optional Spool Adjust center Roller
+
+<div align="center">
   	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_05.png" /><br>
 </div>
 
