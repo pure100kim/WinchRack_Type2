@@ -66,7 +66,7 @@ D2F Micro switch
 
 
 # History <br>
-21 Feb 2024 : Changing Modeling base on v6cl WindchRack <br>
+21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
 22 Feb 2024 : Currently in beta testing. <br>
 
 
