@@ -27,7 +27,45 @@ v6cl Test youtube video : https://www.youtube.com/shorts/trHfZH3sDRs
 </div>
 
 
+# BOM
+Winchrack base component list has been imported as is.<br>
+
+Wago 5pin x 2
+
+Opto endstop x 1 (https://zrr.kr/ZYrV)
+
+n20 gear motor 300 rpm 5v ~ 6v x 1 (https://zrr.kr/33Ta)
+
+ls-p20/15 3kg x 2 (https://zrr.kr/Rqkb)
+
+mosfet switch 1ch x 1 (https://zrr.kr/TrOc)
+
+608zz x 4 (optoion 1 more : you can get 4mm bearing ball 608zz decomposition)
+
+623zz x 8
+
+silicon ring x 1 (https://zrr.kr/E5Dk)
+
+PTFE tube 3x4 or 2x4
+
+m3 insert nut (OD 5mm, L 4mm)
+
+m3 bolts
+
+m4 bolt 15mm x 2 (For ls-p20/15)
+
+m2 self tapping screw 8~10mm x 4
+
+6mm collet for 4mm PTFE Tube x 1 (https://zrr.kr/7WdG)
+
+D2F Micro switch
+
+4mm Bearing ball (608zz including 7 pcs 4mm ball. You can get it decomposition 608zz) 
+
 
 # History <br>
 21 Feb 2024 : Changing Modeling base on v6cl WindchRack <br>
 22 Feb 2024 : Currently in beta testing. <br>
+
+
+
