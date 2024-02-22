@@ -17,7 +17,7 @@ v6cl Test youtube video : https://www.youtube.com/shorts/trHfZH3sDRs
 # WinchRack Type2 
 
 <div align="center">
-	<img src="[https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white](https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_01.png)" />
+	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_01.png" />
 	<img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white](https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_02.png)" />
 	<img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white](https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_03.png)" />
 </div>
