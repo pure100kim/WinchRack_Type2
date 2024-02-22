@@ -65,7 +65,7 @@ D2F Micro switch
 4mm Bearing ball (608zz including 7 pcs 4mm ball. You can get it decomposition 608zz) 
 
 
-# Assembly Cusion
+# Assembly precautions
 When assembling, make sure to clean the inside of the 608 bearing to ensure smooth rotation when turned.
 The bearing should rotate smoothly with minimal friction, at least for several turns.
 
