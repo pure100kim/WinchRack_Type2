@@ -32,8 +32,8 @@ Winchrack base component list has been imported as is.<br>
 
 Wago 5pin x 2
 
-Opto endstop x 1 (https://zrr.kr/ZYrV)
-
+(Choose option1) Opto endstop x 1 (https://zrr.kr/ZYrV)
+(Choose option2) Opto interupt x 1 (https://a.aliexpress.com/_oFFfkt0)
 n20 gear motor 300 rpm 5v ~ 6v x 1 (https://zrr.kr/33Ta)
 
 ls-p20/15 3kg x 2 (https://zrr.kr/Rqkb)
