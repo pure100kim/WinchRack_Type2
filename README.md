@@ -46,7 +46,7 @@ ls-p20/15 3kg x 2 (https://zrr.kr/Rqkb)
 
 mosfet switch 1ch x 1 (https://zrr.kr/TrOc)
 
-608zz x 4 (optoion 1 more : you can get 4mm bearing ball 608zz decomposition)
+608zz x 8 (optoion 1 more : you can get 4mm bearing ball 608zz decomposition)
 
 623zz x 8
 
@@ -84,6 +84,11 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 # History <br>
 21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
 22 Feb 2024 : Currently in beta testing. <br>
-23 Feb 2024 : File modification for filament switch performance enhancement : SensorDetection_middle_Narrow.stl file. 
+23 Feb 2024
+1. File modification for filament switch performance enhancement : SensorDetection_middle_Narrow.stl file.
+2. Motor Mout location changing.
 
+24 Feb 2024
+1. Changing Rear Roller 608zz 4pcs instead of printout TPU Roller.
+2. Add 3mm space and 41mm pipe 
 
