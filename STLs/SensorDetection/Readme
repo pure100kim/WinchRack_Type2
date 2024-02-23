@@ -8,6 +8,7 @@ Differnet type Photo interupt sensor stl file : SensorDetection_Buffer_Rail_mcmc
 SensorDetection_Photo_senseKey.stl
 
 
-
+# If the switch doesn't work, please output a narrow file.
+SensorDetection_middle_Narrow.stl
 
 
