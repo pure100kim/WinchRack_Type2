@@ -77,6 +77,6 @@ The bearing should rotate smoothly with minimal friction, at least for several t
 # History <br>
 21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
 22 Feb 2024 : Currently in beta testing. <br>
-
+23 Feb 2024 : File modification for filament switch performance enhancement : SensorDetection_middle_Narrow.stl file. 
 
 
