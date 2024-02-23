@@ -75,6 +75,11 @@ The bearing should rotate smoothly with minimal friction, at least for several t
 
 Due to the friction of the bearing balls, the front and rear rails move, so be sure to assemble the 4mm bearings and switches.
 
+# Depend on AccelMotor Revers Assembly motor direction
+It is permissible to change the polarity of the power supply to reverse the motor direction, or to relocate the motor while maintaining the polarity marked on the motor as positive (+).
+If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse.stl and FrontFoot_Reverse.stl
+
+
 
 # History <br>
 21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
