@@ -91,6 +91,6 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 
 24 Feb 2024
 1. Changing Rear Roller 608zz 4pcs instead of printout TPU Roller.
-2. Add 2.5mm space and 41mm pipe
+2. Add 2.5mm ~ 3mm space and 41mm pipe. You can adjust gap.
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_06.jpg" /><br>
 
