@@ -90,5 +90,5 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 
 24 Feb 2024
 1. Changing Rear Roller 608zz 4pcs instead of printout TPU Roller.
-2. Add 3mm space and 41mm pipe 
+2. Add 2.5mm space and 41mm pipe 
 
