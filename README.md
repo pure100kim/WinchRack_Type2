@@ -73,6 +73,8 @@ D2F Micro switch
 When assembling, make sure to clean the inside of the 608 bearing to ensure smooth rotation when turned.
 The bearing should rotate smoothly with minimal friction, at least for several turns.
 
+Due to the friction of the bearing balls, the front and rear rails move, so be sure to assemble the bearings and switches.
+
 
 # History <br>
 21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
