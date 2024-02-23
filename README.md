@@ -1,6 +1,9 @@
 # WinchRack_Type2
 WinchRack_Type2 for ERCF buffer 
 
+youtube Testing video : https://www.youtube.com/watch?v=6KahxyvfvtI
+
+
 
 
 v6cl (방탄쪼끼) is a nice member of the same country and VORON User kakao chat room. <br>
