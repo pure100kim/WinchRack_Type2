@@ -24,6 +24,9 @@ v6cl Test youtube video : https://www.youtube.com/shorts/trHfZH3sDRs
 
 
 
+
+
+
 # WinchRack Type2 
 
 <div align="center">
@@ -80,11 +83,16 @@ When assembling, make sure to clean the inside of the 608 bearing to ensure smoo
 The bearing should rotate smoothly with minimal friction, at least for several turns.
 
 Due to the friction of the bearing balls, the front and rear rails move, so be sure to assemble the 4mm bearings and switches.
+<br>
+<br>
 
 # Depend on AccelMotor Revers Assembly motor direction
 It is permissible to change the polarity of the power supply to reverse the motor direction, or to relocate the motor while maintaining the polarity marked on the motor as positive (+).
 If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse.stl and FrontFoot_Reverse.stl
 
+<br>
+<br>
+<br>
 
 
 
@@ -108,13 +116,18 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_03.JPG" /><br>
 
 
-
+<br>
+<br>
+<br>
 
 
 # WinchRack_Weight Beta Testing Version
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
+
+<br>
+<br>
 
 # History <br>
 21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
