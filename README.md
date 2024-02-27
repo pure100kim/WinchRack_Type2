@@ -91,6 +91,7 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 # WinchRack_Type2_V2
 
 
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_01.png" /><br>
 
 
 
