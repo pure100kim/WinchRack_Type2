@@ -1,4 +1,7 @@
 # WinchRack_Type2
+
+# WinchRack_Type2_V1
+
 WinchRack_Type2 for ERCF buffer 
 
 youtube Testing video : https://www.youtube.com/watch?v=6KahxyvfvtI
@@ -84,6 +87,13 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 
 
 
+
+# WinchRack_Type2_V2
+
+
+
+
+
 # History <br>
 21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
 22 Feb 2024 : Currently in beta testing. <br>
@@ -97,3 +107,8 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 2. Add 2.5mm ~ 3mm space and 41mm pipe. You can adjust gap.
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_06.jpg" /><br>
 
+27 Feb 2024
+1. Reduce lenth to 227mm
+   
+
+   
