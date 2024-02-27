@@ -101,15 +101,15 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 23 Feb 2024
 1. File modification for filament switch performance enhancement : SensorDetection_middle_Narrow.stl file.
 2. Motor Mount location changing.
-<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_07.jpg" /><br>
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_07.jpg" /><br>
 
 24 Feb 2024
 1. Changing Rear Roller 608zz 4pcs instead of printout TPU Roller.
 2. Add 2.5mm ~ 3mm space and 41mm pipe. You can adjust gap.
-<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_06.jpg" /><br>
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_06.jpg" /><br>
 
 27 Feb 2024
 1. Reduce lenth to 227mm
    
-
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_01.png" /><br>
    
