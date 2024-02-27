@@ -104,7 +104,7 @@ When fixing AccelPedal 623zz, you should use a rounded head M3 bolt.
 
 2. AccelPedal 조립 후 스풀 롤러와 Accel Roller 고무와 마찰이 잘 되도록 하기 위해<br>
    전자석이 1mm 정도 떨어졌다 붙었다 하게 됩니다.<br>
-   최적 위치 조절하면서 후 볼트를 조여 주세요.<br>
+   최적 위치 조절하면서 볼트를 조여 주세요.<br>
 After assembling the AccelPedal, the electromagnet should be positioned about 1mm away and then attached,<br>
 allowing for optimal adjustment while tightening the rear bolt to ensure good friction between the spool roller and the Accel Roller rubber.   
 
