@@ -22,7 +22,10 @@ When fixing AccelPedal 623zz, you should use a rounded head M3 bolt.
    전자석이 1mm 정도 떨어졌다 붙었다 하게 됩니다.<br>
    최적 위치 조절하면서 볼트를 조여 주세요.<br>
 After assembling the AccelPedal, the electromagnet should be positioned about 1mm away and then attached,<br>
-allowing for optimal adjustment while tightening the rear bolt to ensure good friction between the spool roller and the Accel Roller rubber.   
+allowing for optimal adjustment while tightening the rear bolt to ensure good friction between the spool roller and the Accel Roller rubber.
+
+3. 만약 그래도 Accel Roller와 스풀 롤러간 마찰이 잘 안된다고 하면 스풀 롤러 지름 22mm에서 23mm로 CAD수정하여 출력해보세요.
+   스풀 롤러는 외경 22mm, 내경 8mm, 길이 69mm 입니다.
 
 
 
