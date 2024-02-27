@@ -1,19 +1,9 @@
 
-# WinchRack Type2 
+# WinchRack_Type2_V2
 
 락앤락 통에 넣을 수 있도록 사이즈를 줄인 버전입니다.
 
 전체 사이즈 : 가로 227mm x 폭 90mm x 높이 220mm (스풀 지름 200mm 일때 기준)
-
-
-
-<div align="center">
-	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_01.png" /><br>
-	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_02.png" /><br>
-	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_03.png" /><br>
- 	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_04.png" /><br>
-</div>
-<br>
 
 
 
@@ -24,11 +14,6 @@ The bearing should rotate smoothly with minimal friction, at least for several t
 Due to the friction of the bearing balls, the front and rear rails move, so be sure to assemble the 4mm bearings and switches.
 <br>
 <br>
-
-
-
-# WinchRack_Type2_V2
-
 
 1. AccelPedal 623zz 고정할때 둥근머리 볼트로 고정해야 합니다.<br>
 When fixing AccelPedal 623zz, you should use a rounded head M3 bolt.
