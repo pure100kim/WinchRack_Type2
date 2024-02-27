@@ -27,10 +27,10 @@ v6cl Test youtube video : https://www.youtube.com/shorts/trHfZH3sDRs
 # WinchRack Type2 
 
 <div align="center">
-	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_01.png" /><br>
-	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_02.png" /><br>
-	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_03.png" /><br>
- 	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Photos/WinchRack_Type2_04.png" /><br>
+	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_01.png" /><br>
+	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_02.png" /><br>
+	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_03.png" /><br>
+ 	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_04.png" /><br>
 </div>
 <br>
 
