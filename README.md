@@ -114,4 +114,10 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 1. Reduce lenth to 227mm
    
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_01.png" /><br>
+
+28 Feb 2024
+1. Spool Weight version added
+
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_weight_01.png" /><br>
+
    
