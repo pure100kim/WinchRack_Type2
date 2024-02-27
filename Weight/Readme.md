@@ -16,7 +16,9 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 <br>
 <br>
+
 # Add Bom (추가 부품)
+
 1. 5kg 무게 저울 센서 (보드 포함) 1개
 
 2. 아두이노 NANO 1개
