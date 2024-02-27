@@ -97,6 +97,12 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_03.JPG" /><br>
 
+
+# WinchRack_Weight Version_Beta
+
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
+
+
 # History <br>
 21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
 22 Feb 2024 : Currently in beta testing. <br>
@@ -116,8 +122,8 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_01.png" /><br>
 
 28 Feb 2024
-1. Spool Weight version added
+1. Spool Weight Beta version added
 
-<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_weight_01.png" /><br>
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
    
