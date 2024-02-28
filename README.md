@@ -1,6 +1,6 @@
 # WinchRack_Type2 
 
-# WinchRack_Type2_V1
+# 1.WinchRack_Type2_V1
 
 WinchRack_Type2 for ERCF buffer 
 
@@ -106,7 +106,7 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 
 
 
-# WinchRack_Type2_V2
+# 2. WinchRack_Type2_V2
 
 
 1. AccelPedal 623zz 고정할때 둥근머리 볼트로 고정해야 합니다.<br>
@@ -132,7 +132,7 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <br>
 
 
-# WinchRack_Weight Beta Testing Version
+# 3. WinchRack_Weight Beta Testing Version
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
