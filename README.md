@@ -47,7 +47,7 @@ Wago 5pin x 2
 
 (Choose option1) Opto endstop x 1 (https://zrr.kr/ZYrV)
 
-(Choose option2) Opto interupt x 1 (https://a.aliexpress.com/_oFFfkt0)
+(Choose option2) Opto interrupt x 1 (https://a.aliexpress.com/_oFFfkt0)
 
 n20 gear motor 300 rpm 5v ~ 6v x 1 (https://zrr.kr/33Ta)
 
