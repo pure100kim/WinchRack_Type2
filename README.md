@@ -2,10 +2,10 @@
 
 # 1. WinchRack_Type2_V1
 
-WinchRack_Type2 for ERCF buffer 
+WinchRack_Type2 V1 for ERCF buffer 
 
-youtube Testing video : https://www.youtube.com/watch?v=6KahxyvfvtI<br>
-youtube Applying ERCF video : https://www.youtube.com/watch?v=UDQim4SroeI
+youtube WinchRack_Type2 V1 Testing video : https://www.youtube.com/watch?v=6KahxyvfvtI<br>
+youtube WinchRack_Type2 V1 Applying ERCF video : https://www.youtube.com/watch?v=UDQim4SroeI
 
 
 
