@@ -27,7 +27,7 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 4. M3 인서트 8개
 
-5. M3*10mm 4개
+5. M4*12mm 4개
 
 6. M3*8mm 6개
 
