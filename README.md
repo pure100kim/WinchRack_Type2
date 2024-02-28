@@ -5,6 +5,8 @@
 WinchRack_Type2 V1 for ERCF buffer 
 
 youtube WinchRack_Type2 V1 Testing video : https://www.youtube.com/watch?v=6KahxyvfvtI<br>
+
+당근과 연동하여 테스팅한 유투브 영상입니다.<br>
 youtube WinchRack_Type2 V1 Applying ERCF video : https://www.youtube.com/watch?v=UDQim4SroeI
 
 
