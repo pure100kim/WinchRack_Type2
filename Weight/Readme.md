@@ -25,7 +25,7 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 3. 0.96 inch OLED 12C 버전 1개
 
-4. M3 인서트 8개
+4. M3 인서트 6개
 
 5. M4*12mm 4개
 
