@@ -155,7 +155,10 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 24 Feb 2024<br>
 1. Changing Rear Roller 608zz 4pcs instead of printout TPU Roller.
 2. Add 2.5mm ~ 3mm space and 41mm pipe. You can adjust gap.
+3. Verion1 Final Release
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_06.jpg" /><br>
+
+
 
 27 Feb 2024<br>
 락액락 통에 넣을 수 있는 사이즈로 길이를 줄였습니다.<br>
