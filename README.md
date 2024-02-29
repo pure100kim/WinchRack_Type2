@@ -152,25 +152,25 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 2. Motor Mount location changing.
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_07.jpg" /><br>
 
-24 Feb 2024
+24 Feb 2024<br>
 1. Changing Rear Roller 608zz 4pcs instead of printout TPU Roller.
 2. Add 2.5mm ~ 3mm space and 41mm pipe. You can adjust gap.
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_06.jpg" /><br>
 
-27 Feb 2024
+27 Feb 2024<br>
 락액락 통에 넣을 수 있는 사이즈로 길이를 줄였습니다.<br>
 1. Reduce lenth to 227mm
    
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_01.png" /><br>
 
-28 Feb 2024
+28 Feb 2024<br>
 필라멘트 잔여량 측정이 가능하도록 무게 측정하는 버전 개발 진행<br>
 1. Spool Weight Beta Testing version Modeling added
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
 
-29 Feb 2024
+29 Feb 2024<br>
 테스팅결과 스풀의 무게로 롤러 양쪽이 쳐지는 문제가 발생이 되었습니다.<br>
 구조적으로 쳐짐이 발생되지 않도록 설계 보강하였습니다.<br>
 
