@@ -1,6 +1,6 @@
 # WinchRack_Type2 
 
-# 1. WinchRack_Type2_V1
+# 1. WinchRack_Type2_V1 Release
 
 WinchRack_Type2 V1 for ERCF buffer 
 
