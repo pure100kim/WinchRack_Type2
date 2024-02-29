@@ -167,4 +167,6 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
-   
+
+29 Feb 2024
+1. Design Change to Withstand Spool Weight Load <br>
