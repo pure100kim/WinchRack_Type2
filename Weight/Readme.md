@@ -39,3 +39,6 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 <br>
 
+History
+29 Feb 2024
+Design Change to Withstand Spool Weight Load
