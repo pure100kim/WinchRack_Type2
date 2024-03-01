@@ -12,7 +12,7 @@ After assembling the AccelPedal, the electromagnet should be positioned about 1m
 allowing for optimal adjustment while tightening the rear bolt to ensure good friction between the spool roller and the Accel Roller rubber.   
 
 
-<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_02.png" /><br>
 
 
 <br>
