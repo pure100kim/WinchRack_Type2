@@ -38,7 +38,13 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <br>
 
 <br>
+# Loadcell Connection Diagram
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Type2_Loadcell_Connection_Diagram.png" /><br>
+
+
+
 
 History
 29 Feb 2024
 Design Change to Withstand Spool Weight Load
+
