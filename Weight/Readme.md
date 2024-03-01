@@ -30,12 +30,13 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 4. M3 insert 6 PCS <br>
 5. M4*12mm 4 PCS <br>
 6. M3*8mm 6개<br>
-7. 기타 전원선<br>
+7. M3*8mm 1개(둥근머리) <br>
+8. 기타 전원선<br>
 
 
 <br>
 
-<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_04.png" /><br>
+
 
 <br>
 
