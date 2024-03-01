@@ -17,7 +17,6 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 <br>
 
-<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_04.png" /><br>
 
 <br>
 
@@ -36,7 +35,10 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 <br>
 
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_04.png" /><br>
+
 <br>
+
 # Loadcell Connection Diagram
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Type2_Loadcell_Connection_Diagram.png" /><br>
 
