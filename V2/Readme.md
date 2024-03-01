@@ -36,6 +36,11 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_03.JPG" /><br>
 
 
+둥근머리 M3*10mm로 먼저 조립한 후 전자석을 조립합니다.<br>
+
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_04.png" /><br>
+
+
 <br>
 <br>
 <br>
