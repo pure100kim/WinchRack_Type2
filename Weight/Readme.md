@@ -16,6 +16,9 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 
 <br>
+
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_04.png" /><br>
+
 <br>
 
 # Add Bom (추가 부품)
