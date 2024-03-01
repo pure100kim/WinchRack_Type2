@@ -1,5 +1,6 @@
-# WinchRack_Weight Beta Testing Version
+# WinchRack_Type2 V3 Weight scale Version Relase
 
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_03.jpg" /><br>
 
 1. AccelPedal 623zz 고정할때 둥근머리 볼트로 고정해야 합니다.<br>
 When fixing AccelPedal 623zz, you should use a rounded head M3 bolt.
