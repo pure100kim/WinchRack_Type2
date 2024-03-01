@@ -137,7 +137,7 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <br>
 
 
-# 3. WinchRack_Weight Beta Testing Version
+# 3. WinchRack_Type2 V3 Filament reamiining Weight version Release
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
@@ -180,3 +180,9 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 1. Design Change to Withstand Spool Weight Load <br>
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_02.png" /><br>
+
+
+
+### 01 Mar 2024<br>
+1. Filament Remaing Weight arduino coding verify complted <br>
+1. Relase Measure Filament remaing weight <br>
