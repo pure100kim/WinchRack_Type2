@@ -31,7 +31,7 @@ v6cl Test youtube video : https://www.youtube.com/shorts/trHfZH3sDRs
 
 
 
-# WinchRack Type2 
+# WinchRack Type2
 
 <div align="center">
 	<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_01.png" /><br>
@@ -111,7 +111,7 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 
 
 
-# 2. WinchRack_Type2_V2
+# 2. WinchRack_Type2_V2 version Release
 
 
 1. AccelPedal 623zz 고정할때 둥근머리 볼트로 고정해야 합니다.<br>
@@ -140,6 +140,20 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 # 3. WinchRack_Type2 V3 Filament reamiining Weight version Release
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
+
+
+# WinchRack_Type2 V3 Add Bom (추가 부품)
+
+1. 5kg 무게 저울 센서 (보드 포함) 1개 <br>
+   5kg Loadcell including HX711
+2. 아두이노 NANO 1개 <br>
+   Arduino Nano Board
+3. 0.96 inch OLED 12C 버전 1개 <br>
+4. M3 insert 6 PCS <br>
+5. M4*12mm 4 PCS <br>
+6. M3*8mm 6개<br>
+7. 기타 전원선<br>
+
 
 
 <br>
@@ -185,4 +199,9 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 ### 01 Mar 2024<br>
 1. Filament Remaing Weight arduino coding verify complted <br>
-1. Relase Measure Filament remaing weight <br>
+2. Relase Measure Filament remaing weight <br>
+3. Writing Connection Diagram <br>
+
+
+
+감사합니다.
