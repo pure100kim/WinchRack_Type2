@@ -19,20 +19,15 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 # Add Bom (추가 부품)
 
-1. 5kg 무게 저울 센서 (보드 포함) 1개
-
-2. 아두이노 NANO 1개
-
-3. 0.96 inch OLED 12C 버전 1개
-
-4. M3 인서트 6개
-
-5. M4*12mm 4개
-
-6. M3*8mm 6개
-
-7. 기타 전원선
-
+1. 5kg 무게 저울 센서 (보드 포함) 1개 <br>
+   5kg Loadcell including HX711
+2. 아두이노 NANO 1개 <br>
+   Arduino Nano Board
+3. 0.96 inch OLED 12C 버전 1개 <br>
+4. M3 insert 6 PCS <br>
+5. M4*12mm 4 PCS <br>
+6. M3*8mm 6개<br>
+7. 기타 전원선<br>
 
 
 <br>
@@ -44,7 +39,13 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 
 
-History
-29 Feb 2024
-Design Change to Withstand Spool Weight Load
+# History
+
+29 Feb 2024 <br>
+Design Change to Withstand Spool Weight Load <br>
+
+01 Mar 2024
+1. LoadCell Arduino Nano Coding complted <br>
+2. Writging Connection Diagram <br>
+   
 
