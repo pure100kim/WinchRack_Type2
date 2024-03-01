@@ -17,3 +17,16 @@
 
 
 감사합니다.
+
+
+# Application Sequence
+
+1. Apply the WinchRack_offset_measure.ino code and measure the offset value, then record it.  <br>
+2. Measure the actual weight of the empty spool. <br>
+3. Enter the offset value and the measured weight of the empty spool into the WinchRack_Filament_remaining_Weight.ino code. <br>
+4. Apply the modified code. <br>
+
+It is acceptable to measure the offset value after winding the empty spool in steps 1 and 2 above.
+Minor modifications to the code may be necessary.
+
+Thankyou~ :D
