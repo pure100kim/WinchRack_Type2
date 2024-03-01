@@ -201,7 +201,7 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 1. Filament Remaing Weight arduino coding verify complted <br>
 2. Relase Measure Filament remaing weight <br>
 3. Writing Connection Diagram <br>
-
+<img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_03.jpg" /><br>
 
 
 감사합니다.
