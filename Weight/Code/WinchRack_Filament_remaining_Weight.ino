@@ -3,9 +3,12 @@
 #include <SSD1306Ascii.h> // i2C OLED
 #include <SSD1306AsciiWire.h> // i2C OLED
 
+// I2C pins:
+// Arduino: SDA: A4 SCL: A5
+
 // HX711 회로 연결
-#define LOADCELL_DOUT_PIN 2
-#define LOADCELL_SCK_PIN  3
+#define LOADCELL_DOUT_PIN 2 //DT
+#define LOADCELL_SCK_PIN  3 //SCK
 
 // loadcellvalue 설정
 float loadcellValue = 372.0; // 5kg loadcell에 대한 값을 사용
