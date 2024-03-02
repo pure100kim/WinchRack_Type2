@@ -1,5 +1,13 @@
 # WinchRack_Type2 V3 Weight scale Version Relase
 
+
+
+
+Youtube video : https://youtu.be/h_89rF7SB6s?si=DVgz_AW4CbowRDjg
+
+
+
+
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_03.jpg" /><br>
 
 1. AccelPedal 623zz 고정할때 둥근머리 볼트로 고정해야 합니다.<br>
