@@ -146,13 +146,14 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 1. 5kg 무게 저울 센서 (보드 포함) 1개 <br>
    5kg Loadcell including HX711
-2. 아두이노 NANO 1개 <br>
-   Arduino Nano Board
-3. 0.96 inch OLED 12C 버전 1개 <br>
-4. M3 insert 6 PCS <br>
-5. M4*12mm 4 PCS <br>
-6. M3*8mm 6개<br>
-7. 기타 전원선<br>
+2. 아두이노 NANO 1개 <br> 
+   Arduino Nano Board <br>
+   Recommnad small size board : ESP32-C3    
+4. 0.96 inch OLED 12C 버전 1개 <br>
+5. M3 insert 6 PCS <br>
+6. M4*12mm 4 PCS <br>
+7. M3*8mm 6개<br>
+8. 기타 전원선<br>
 
 
 
