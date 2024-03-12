@@ -137,12 +137,12 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <br>
 
 
-# 3. WinchRack_Type2 V3 Filament reamiining Weight version Release
+# 3. WinchRack_Type2 Weight : Filament reamiining Weight version Release
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
 
-# WinchRack_Type2 V3 Add Bom (추가 부품)
+# WinchRack_Type2 Weight Version Add Bom (추가 부품)
 
 1. 5kg 무게 저울 센서 (보드 포함) 1개 <br>
    5kg Loadcell including HX711
@@ -157,7 +157,7 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 
 
-# WinchRack Type2 BelayStlye : Design in progress
+# WinchRack Type2 V3 BelayStlye : Design in progress
 
 
 
