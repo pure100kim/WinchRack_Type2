@@ -157,6 +157,12 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 
 
+# WinchRack Type2 BelayStlye : Design in progress
+
+
+
+
+
 <br>
 <br>
 
@@ -203,6 +209,12 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 2. Relase Measure Filament remaing weight <br>
 3. Writing Connection Diagram <br>
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_03.jpg" /><br>
+
+
+
+### 12 Mar 2024<br>
+1. WinchRack V3 is redesigning the sensor rail to be simpler and reduce bearing parts.
+
 
 
 감사합니다.
