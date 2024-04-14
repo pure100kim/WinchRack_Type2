@@ -13,8 +13,8 @@ youtube WinchRack_Type2 V1 Applying ERCF video : https://www.youtube.com/watch?v
 
 
 
-v6cl (방탄쪼끼) is a nice member of the same country and VORON User kakao chat room. <br>
-He is adept at design and has helped shortcomings in the multi-color ERCF buffer, for which we are grateful. <br>
+v6cl (방탄쪼끼) is a nice member from Korea and VORON User kakao chat room. <br>
+He has adapted the design and helped remove shortcomings in the multi-color ERCF buffer, for which we are grateful. <br>
 Building upon his design, I have received wonderful ideas to modify the structure for improved spatial aspects and easier spool install.
 
 방탄쪼끼님 멋져요!
@@ -93,17 +93,18 @@ D2F Micro switch
 <br>
 <br>
 <br>
+
 # Assembly precautions
-When assembling, make sure to clean the inside of the 608 bearing to ensure smooth rotation when turned.
+When assembling, make sure to clean the inside of the 608 bearing to ensure smooth rotation.
 The bearing should rotate smoothly with minimal friction, at least for several turns.
 
 Due to the friction of the bearing balls, the front and rear rails move, so be sure to assemble the 4mm bearings and switches.
 <br>
 <br>
 
-# Depend on AccelMotor Revers Assembly motor direction
-It is permissible to change the polarity of the power supply to reverse the motor direction, or to relocate the motor while maintaining the polarity marked on the motor as positive (+).
-If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse.stl and FrontFoot_Reverse.stl
+# When reversing the polarity of the power supply
+You can change the polarity of the power supply to reverse the motor direction, or to relocate the motor while maintaining the polarity marked on the motor as positive (+).
+If you are changing the motor location, use stl file AccelMotor_mag_holder_Frame_Reverse.stl and FrontFoot_Reverse.stl
 
 <br>
 <br>
@@ -115,13 +116,13 @@ If you changing motor location, use stl file AccelMotor_mag_holder_Frame_Reverse
 
 
 1. AccelPedal 623zz 고정할때 둥근머리 볼트로 고정해야 합니다.<br>
-When fixing AccelPedal 623zz, you should use a rounded head M3 bolt.
+When mounting AccelPedal 623zz, you should use a button head M3 bolt.
 
 2. AccelPedal 조립 후 스풀 롤러와 Accel Roller 고무와 마찰이 잘 되도록 하기 위해<br>
    전자석이 1mm 정도 떨어졌다 붙었다 하게 됩니다.<br>
    최적 위치 조절하면서 볼트를 조여 주세요.<br>
-After assembling the AccelPedal, the electromagnet should be positioned about 1mm away and then attached,<br>
-allowing for optimal adjustment while tightening the rear bolt to ensure good friction between the spool roller and the Accel Roller rubber.   
+After assembling the AccelPedal, adjust the rear bolt so that you get about 1mm of movement of the electromagnet.<br>
+You want enough friction between the spool roller and the Accel Roller rubber.   
 
 
 
@@ -137,18 +138,18 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <br>
 
 
-# 3. WinchRack_Type2 Weight : Filament reamiining Weight version Release
+# 3. WinchRack_Type2 Weight : Filament remaining Weight version Release
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
 
-# WinchRack_Type2 Weight Version Add Bom (추가 부품)
+# WinchRack_Type2 Weight Version Addtional BOM (추가 부품)
 
 1. 5kg 무게 저울 센서 (보드 포함) 1개 <br>
    5kg Loadcell including HX711
 2. 아두이노 NANO 1개 <br> 
    Arduino Nano Board <br>
-   Recommnad small size board : ESP32-C3    
+   Recommand small size board : ESP32-C3    
 4. 0.96 inch OLED 12C 버전 1개 <br>
 5. M3 insert 6 PCS <br>
 6. M4*12mm 4 PCS <br>
@@ -159,7 +160,7 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <br>
 <br>
 
-# WinchRack Type2 V3 BelayStlye : Design in progress
+# WinchRack Type2 V3 BelayStyle : Design in progress
 
 
 
@@ -168,37 +169,38 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 <br>
 
 # History <br>
-### 21 Feb 2024 : Changing Modeling base on v6cl WinchdRack <br>
+### 21 Feb 2024 : Changed the Modeling base on v6cl WinchdRack <br>
 ### 22 Feb 2024 : Currently in beta testing. <br>
 ### 23 Feb 2024
 1. File modification for filament switch performance enhancement : SensorDetection_middle_Narrow.stl file.
-2. Motor Mount location changing.
+2. Motor Mount location change.
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_07.jpg" /><br>
 
 ### 24 Feb 2024<br>
-1. Changing Rear Roller 608zz 4pcs instead of printout TPU Roller.
-2. Add 2.5mm ~ 3mm space and 41mm pipe. You can adjust gap.
+1. Opted for Rear Roller 608zz 4pcs instead of printed TPU Roller.
+2. Added 2.5mm ~ 3mm space and 41mm pipe. You can adjust the gap.
 3. Version1 Final Release
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V1/Photos/WinchRack_Type2_06.jpg" /><br>
 
 
 
 ### 27 Feb 2024<br>
-락액락 통에 넣을 수 있는 사이즈로 길이를 줄였습니다.<br>
-1. Reduce lenth to 227mm
+락앤락 통에 넣을 수 있는 사이즈로 길이를 줄였습니다.<br>
+1. Reduced lenth to 227mm, so it can be put in to a container.
    
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/V2/Photos/WinchRack_Type2_V2_01.png" /><br>
 
 ### 28 Feb 2024<br>
 필라멘트 잔여량 측정이 가능하도록 무게 측정하는 버전 개발 진행<br>
-1. Spool Weight Beta Testing version Modeling added
+1. Spool Weight Beta version Modeling added
 
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_01.png" /><br>
 
 
 ### 29 Feb 2024<br>
-테스팅결과 스풀의 무게로 롤러 양쪽이 쳐지는 문제가 발생이 되었습니다.<br>
+테스팅 결과 스풀의 무게로 롤러 양쪽이 쳐지는 문제가 발생이 되었습니다.<br>
 구조적으로 쳐짐이 발생되지 않도록 설계 보강하였습니다.<br>
+Reinforced the design, fixing rollers flexing down because of the spool weight. 
 
 1. Design Change to Withstand Spool Weight Load <br>
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_02.png" /><br>
@@ -206,15 +208,15 @@ allowing for optimal adjustment while tightening the rear bolt to ensure good fr
 
 
 ### 01 Mar 2024<br>
-1. Filament Remaing Weight arduino coding verify complted <br>
-2. Relase Measure Filament remaing weight <br>
-3. Writing Connection Diagram <br>
+1. Filament Remaining Weight arduino code verify completed <br>
+2. Released Measure Filament remaining weight <br>
+3. Made Connection Diagram <br>
 <img src="https://github.com/pure100kim/WinchRack_Type2/blob/main/Weight/Photos/WinchRack_Weight_03.jpg" /><br>
 
 
 
 ### 12 Mar 2024<br>
-1. WinchRack V3 is redesigning the sensor rail to be simpler and reduce bearing parts.
+1. WinchRack V3 is being designed to make the sensor rail simpler and bearing parts reduced.
 
 
 
