@@ -1,1 +1,4 @@
-
+The 16mm files ofer an alternative to use 16mm motors instead of N20 motors which are 12mm. The 16mm motor should allow you to double the RPM while keeping the same torque.
+The STL files have been created for this https://www.aliexpress.com/item/1005004449660678.html motors which, in case the URL no longer works the model number is JGA16-050-CE DC6V480RPM. 
+For the 16mm motor you will need an extra 623zz bearing for the holder , 2 x 30mm M3 BHCS bolts and two M3 washers.
+See the "img" directory for pictures of the assembly.
